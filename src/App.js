@@ -7,7 +7,6 @@ import Tv from "./pages/TV";
 import Header from "./components/Header"
 import MovieDetail from "./pages/Moviedetail";
 import Tvs from "./components/Tvs";
-import login from "./components/loginpage";
 import LoginPage from "./login";
 
 

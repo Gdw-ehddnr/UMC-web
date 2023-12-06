@@ -1,6 +1,5 @@
 import React from 'react'
 import { useLocation, useParams } from 'react-router-dom'
-import movie from '../components/movie';
 
 export default function MovieDetail() {
   const { title } = useParams();
